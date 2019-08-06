@@ -1,0 +1,1 @@
+# Chipsec-v1.3.8-chipsec_main.py-reports-not-support-error-on-Intel-ICL-CML-platforms-and-CPU-I9.
